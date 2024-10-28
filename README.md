@@ -81,8 +81,5 @@ The predictions aligned well with actual stock prices, demonstrating the model's
 - **Advanced Models**: Experiment with models like Bidirectional LSTM, CNN-LSTM, or Transformer-based models for better performance.
 - **Cross-Validation**: Implement k-fold cross-validation for more robust performance evaluation.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/tesla-stock-forecasting.git
-   cd tesla-stock-forecasting
+## Contributors
+- [Ali Zameeruddin Khan](https://github.com/zam334x) [LinkedIn](https://www.linkedin.com/in/alizameer2122)
