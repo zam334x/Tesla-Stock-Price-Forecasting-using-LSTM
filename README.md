@@ -2,6 +2,7 @@
 
 ## Overview
 This project involves time series forecasting of Tesla’s stock price using Long Short-Term Memory (LSTM) neural networks. The model is designed to predict the "Close" price of Tesla's stock based on historical stock data, using deep learning techniques to identify trends and patterns.
+- **Please see the "Tesla_Stock_Forecasting.ipynb" file for full details and results.** 
 
 ## Table of Contents
 - [Overview](#overview)
